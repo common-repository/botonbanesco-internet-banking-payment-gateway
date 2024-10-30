@@ -1,0 +1,171 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce - BotonBanesco Internet Banking Payment "
+"Gateway.\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-13 23:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: woocommerce-gateway-botonbanesco"
+
+#: woocommerce-gateway-botonbanesco.php:351
+msgid ""
+"<div class='woocommerce'><div class='woocommerce-notices-wrapper'><p "
+"class='cart-empty woocommerce-info'>Pago exitoso</p></div></div>"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:345
+msgid ""
+"<div class='woocommerce'><div class='woocommerce-notices-wrapper'><p "
+"class='cart-empty woocommerce-info'>Pago no exitoso</p></div></div>"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:374
+msgid ""
+"<span class='woocommerce-error'>BotonBanesco - Error Critico "
+"&nbsp&nbsp&nbsp</sapn>"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:505
+msgid "api key"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:154
+msgid "ApiKey must be present"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:65
+msgid "Bot&oacute;n BanescoPagos"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:231
+msgid "Boton de Pagos Banesco"
+msgstr ""
+
+#. Name of the plugin
+msgid "BotonBanesco Internet Banking Payment Gateway."
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:367
+msgid "BotonBanesco Request Failure"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:542
+msgid "Button height"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:549
+msgid "Button width"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:521
+msgid "Debug Log"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:519
+msgid "Debug log"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:501
+msgid "Enable BotonBanesco Payment"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:499
+msgid "Enable/Disable"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:232
+msgid "EndPoint for notification"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:184
+msgid "Exchange rate must be grater than zero"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:507
+#: woocommerce-gateway-botonbanesco.php:514
+msgid "Hash from BotonBanesco."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.banesco.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.itssca.net"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:544
+msgid "image length of button"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:551
+msgid "image width of button"
+msgstr ""
+
+#. Author of the plugin
+msgid "ITSS C.A - Mauro Andres Conde"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:237
+msgid "Log file"
+msgstr ""
+
+#. Description of the plugin
+msgid "Pay using Internet Banking"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:66
+msgid "Permite el pago usando su cuenta en banesco."
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:512
+msgid "Secret"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:169
+msgid "Secret must be present"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:639
+#: woocommerce-gateway-botonbanesco.php:653
+msgid "Security Issue"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:526
+msgid "Server"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:199
+#: woocommerce-gateway-botonbanesco.php:216
+msgid "Server must be present"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:528
+msgid "Server to connect"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:629
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:384
+msgid "Thank you for your order, please pay with BotonBanesco."
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:234
+msgid "URL for fail redirect"
+msgstr ""
+
+#: woocommerce-gateway-botonbanesco.php:233
+msgid "URL for success redirect"
+msgstr ""
